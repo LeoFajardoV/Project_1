@@ -20,7 +20,7 @@ Lo que me motivó a realizar este proyecto es que tengo experiencia en la aplica
 2.  ¿Se pueden extraer comportamientos representativos de personas bajo los modelos de Network Analysis?
 3.  ¿Existen metodologías para encontrar los actores principales en el análisis de redes?
 
-**DESCIPCIÓN DE ARCHIVOS**
+**DESCRIPCIÓN DE ARCHIVOS**
 
 1.  Hay 1 notebook que se llama "Network_Analysis.ipynb" en donde se encontrará el paso a paso del tratamiento de los datos y la implementación de los modelos que me permitió dar respuesta a cada una de las preguntas. Cabe resaltar que el notebook se encuentra comentado linea por linea de lo que se hace en cada paso.
 2.  El conjunto de datos "ficticio" que creé tiene el nombre de "DATANETWORKANALYSIS.txt", este conjunto de datos contiene 500.000 registros y 4 columnas como por ejemplo: "Id_origin" (id de la persona que envía dinero), "Id_destination" (id de la persona que recibe dinero), "USD" (total enviado en dólares) y "Qtrx" (cantidad de transacciones entre id origen y id destino).
