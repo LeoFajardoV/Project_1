@@ -28,6 +28,7 @@ Lo que me motivó a realizar este proyecto es que tengo experiencia en la aplica
 **RESULTADOS**
 
 Las respuestas a cada una de las preguntas planteadas las pueden encontrar en el siguiente link
+https://leo-fajardo-vasquez14.medium.com/analisis-de-redes-en-transacciones-financieras-usando-python-networkx-55a58cdc3cb8
 
 **LICENCIAS, AUTORES, AGRADECIMIENTOS**
 
