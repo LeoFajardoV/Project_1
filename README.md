@@ -1,6 +1,6 @@
 # **Network Analysis**
 
-**Tabla de contenido**
+**Table of Contents**
 
 1. Installation
 2. Motivation of the project
