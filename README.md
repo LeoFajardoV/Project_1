@@ -2,36 +2,36 @@
 
 **Tabla de contenido**
 
-1.  Instalación
-2.  Motivación del proyecto
-3.  Descripción de archivos
-4.  Resultados
-5.  Licencia, autores y reconocimientos
+1. Installation
+2. Motivation of the project
+3. File description
+4. Results
+5. License, authors and acknowledgments
 
-**INSTALACIÓN**
+**INSTALLATION**
 
-Se debe instalar las librerías csv, networkx, community, itemgetter, pandas y numpy. Especificamente de Networkx se debe obtener la versión == 2.4 como se menciona al inicio del notebook Network_Analysis.ipynb.
+The csv, networkx, community, itemgetter, pandas and numpy libraries must be installed. Specifically from Networkx, version == 2.4 should be obtained as mentioned at the beginning of the notebook Network_Analysis.ipynb.
 
-**MOTIVACIÓN DEL PROYECTO**
+**MOTIVATION OF THE PROJECT**
 
-Lo que me motivó a realizar este proyecto es que tengo experiencia en la aplicación de modelos redes (Network Analysis), pero quería innovar en cuanto al campo donde generalmente se ven aplicados este tipo de modelos y que pueden ser de gran ayuda para las entidades financieras. Para esto cree una base de datos de transacciones "ficticia" en donde bajo ese conjunto de datos respondí las siguientes preguntas:
+What motivated me to carry out this project is that I have experience in the application of network models (Network Analysis), but I wanted to innovate in terms of the field where these types of models are generally applied and that can be of great help for financial institutions. For this I created a "fictitious" transaction database where under that data set I answered the following questions:
 
-1.	¿Los modelos de Network Analysis son aplicables en temas de finanzas?
-2.  ¿Se pueden extraer comportamientos representativos de personas bajo los modelos de Network Analysis?
-3.  ¿Existen metodologías para encontrar los actores principales en el análisis de redes?
+1. Are the Network Analysis models applicable to finance issues?
+2. Can representative behaviors of people be extracted under Network Analysis models?
+3. Are there methodologies to find the main actors in the network analysis?
 
-**DESCRIPCIÓN DE ARCHIVOS**
+**FILE DESCRIPTION**
 
-1.  Hay 1 notebook que se llama "Network_Analysis.ipynb" en donde se encontrará el paso a paso del tratamiento de los datos y la implementación de los modelos que me permitió dar respuesta a cada una de las preguntas. Cabe resaltar que el notebook se encuentra comentado linea por linea de lo que se hace en cada paso.
-2.  El conjunto de datos "ficticio" que creé tiene el nombre de "DATANETWORKANALYSIS.txt", este conjunto de datos contiene 500.000 registros y 4 columnas como por ejemplo: "Id_origin" (id de la persona que envía dinero), "Id_destination" (id de la persona que recibe dinero), "USD" (total enviado en dólares) y "Qtrx" (cantidad de transacciones entre id origen y id destino).
+1. There is 1 notebook called "Network_Analysis.ipynb" where you will find the step-by-step treatment of the data and the implementation of the models that allowed me to answer each of the questions. It should be noted that the notebook is commented line by line of what is done in each step.
+2. The "fictitious" data set that I created has the name "DATANETWORKANALYSIS.txt", this data set contains 500,000 records and 4 columns such as: "Id_origin" (id of the person who sends money), "Id_destination "(id of the person who receives money)," USD "(total sent in dollars) and" Qtrx "(number of transactions between source id and destination id).
 
-**RESULTADOS**
+**RESULTS**
 
-Las respuestas a cada una de las preguntas planteadas las pueden encontrar en el siguiente link
+The answers to each of the questions posed can be found in the following link
 https://leo-fajardo-vasquez14.medium.com/analisis-de-redes-en-transacciones-financieras-usando-python-networkx-55a58cdc3cb8
 
-**LICENCIAS, AUTORES, AGRADECIMIENTOS**
+**LICENSE, AUTHORS, ACKNOWLEDGMENTS**
 
-Los datos al ser ficticios pueden ser utilizados sin ningún problema. Sin embargo, si hace uso de los datos o metodologías, no dude en citarme en las historias, documentos, arcitulos u otra publicación, ya que son de mi autoría.
+The data being fictitious can be used without any problem. However, if you make use of the data or methodologies, do not hesitate to quote me in the stories, documents, articles or other publication, since they are my authorship.
 
-**GRACIAS.**
+**THANKS.**
